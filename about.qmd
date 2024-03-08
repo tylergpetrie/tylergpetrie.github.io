@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+About this site. Lets learn to use github terminal.
 
 ```{r}
 1 + 1
