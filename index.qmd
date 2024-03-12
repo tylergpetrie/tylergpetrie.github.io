@@ -1,11 +1,37 @@
 ---
-title: "tylergpetrie.github.io"
+about:
+  template: jolla
+  id: about-block
+  image: "img/headshot.png"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/tylergpetrie
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tgpetrie/
+    - icon: envelope
+      text: Email
+      href: "mailto:txp306@case.edu"  
 ---
 
-This is a Quarto website.
+::: {#about-block}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+Tyler Petrie is a PhD candidate in electrical engineering at Case Western Reserve University.
+
+## Research Interests
+
+As a researcher and an engineer my professional goal is to improve access and independence for people with
+spinal cord injury through the development of adaptive technology. My projects are driven by the investigation of how our bodies interact with the environment. What does interaction look like for able-bodied individuals versus disable-bodied individuals? What does our experience look like if we modify the environment, rather than our bodies? And, most importantly, how *could* this interaction look if we design from a focus on individual ability?
+
+Founded in ability-based design, my research uses virtual reality (VR) to extend 2D human-computer interaction principles to 3 dimensions to help users with spinal cord injury reinvision how they interact with daily objects.
+
+## Education
+
+Case Western Reserve University | Cleveland, OH
+PhD in Electrical Engineering | 2026
+
+University of Washington | Seattle, WA
+B.S. in Electrical Engineering | 2020

@@ -1,16 +1,72 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects done as part of degree completion for a PhD in Electrical, Computer, & Systems Engineering\n\n\n\n ## An Offline Occupancy Mapping Implementation for the Microsoft Hololens 2"
+  },
+  {
+    "objectID": "projects/index.html#the-languages-of-middle-earth",
+    "href": "projects/index.html#the-languages-of-middle-earth",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "tylergpetrie.github.io",
+    "title": "Tyler G. Petrie",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\nTyler Petrie is a PhD candidate in electrical engineering at Case Western Reserve University."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Tyler G. Petrie",
+    "section": "Research Interests",
+    "text": "Research Interests\nAs a researcher and an engineer my professional goal is to improve access and independence for people with spinal cord injury through the development of adaptive technology. My projects are driven by the investigation of how our bodies interact with the environment. What does interaction look like for able-bodied individuals versus disable-bodied individuals? What does our experience look like if we modify the environment, rather than our bodies? And, most importantly, how could this interaction look if we design from a focus on individual ability?\nFounded in ability-based design, my research uses virtual reality (VR) to extend 2D human-computer interaction principles to 3 dimensions to help users with spinal cord injury reinvision how they interact with daily objects."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tyler G. Petrie",
+    "section": "Education",
+    "text": "Education\nCase Western Reserve University | Cleveland, OH PhD in Electrical Engineering | 2026\nUniversity of Washington | Seattle, WA B.S. in Electrical Engineering | 2020"
+  },
+  {
+    "objectID": "projects/index.html#an-rrt-path-planning-implementation-for-a-4-dof-laparoscope-with-3d-visualization",
+    "href": "projects/index.html#an-rrt-path-planning-implementation-for-a-4-dof-laparoscope-with-3d-visualization",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#modeling-motor-neuron-outputs-as-control-signals-for-virtual-reality-wheelchair-training",
+    "href": "projects/index.html#modeling-motor-neuron-outputs-as-control-signals-for-virtual-reality-wheelchair-training",
+    "title": "Projects",
+    "section": "",
+    "text": "## An Offline Occupancy Mapping Implementation for the Microsoft Hololens 2"
   }
 ]
