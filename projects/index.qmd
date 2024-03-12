@@ -1,0 +1,24 @@
+---
+title: Projects
+---
+
+# Academic Projects
+
+Projects done as part of degree completion for a PhD in Electrical, Computer, & Systems Engineering
+
+
+
+<img src="project_1.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+## Modeling Motor Neuron Outputs as Control Signals for Virtual Reality Wheelchair Training
+
+
+
+
+<img src="project_2.png" style="height: 100%; width: 100%; object-fit: contain"/>
+## An Offline Occupancy Mapping Implementation for the Microsoft Hololens 2
+
+<img src="project_3.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+## An RRT* Path Planning Implementation for a 4-DOF Laparoscope with 3D Visualization
+
