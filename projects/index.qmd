@@ -16,6 +16,7 @@ Projects done as part of degree completion for a PhD in Electrical, Computer, & 
 
 
 <img src="project_2.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
 ## An Offline Occupancy Mapping Implementation for the Microsoft Hololens 2
 
 <img src="project_3.png" style="height: 100%; width: 100%; object-fit: contain"/>
